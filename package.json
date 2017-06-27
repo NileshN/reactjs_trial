@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "babel-preset-es2015": "^6.24.1",
     "react": "^15.6.1",
     "react-apple": "^1.1.0",
     "react-dom": "^15.6.1",
